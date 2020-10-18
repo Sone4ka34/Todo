@@ -1,0 +1,39 @@
+{
+    "motivation_array" : [
+        "кто с утра встает, то не выспался",
+        "кто с утра встает, другим спать не дает",
+        "в силикиновой недвижимость подешевела",
+        "быть или не быть",
+        "быстро бегать",
+        "высоко прыгать"
+      ],
+      "important_color" : [
+        "has-background-danger has-text-white has-size-3",
+        "has-background-warning has-text-black has-size-3",
+        "has-background-link has-text-white has-size-3"
+      ],
+      "animation_out" : [
+        "animate__zoomOut",
+        "animate__zoomOutLeft",
+        "animate__flipOutX"
+      ],
+      "animation_in" : [
+        "animate__zoomIn",
+        "animate__zoomInLeft",
+        "animate__flipInX"
+      ],
+      "Month_Arrey" : [
+        "Января",
+        "Февраля",
+        "Марта",
+        "Апреля",
+        "Мая",
+        "Июня",
+        "Июля",
+        "Августа",
+        "Сентября",
+        "Октября",
+        "Ноября",
+        "Декабря"
+      ]
+}
